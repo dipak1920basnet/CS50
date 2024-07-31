@@ -1,0 +1,11 @@
+sort1 uses:  Bubble sort
+
+How do you know?: For Best case scanerio it takes less time i.e O(n) than for worst case scanerio i.e O(n^2)
+
+sort2 uses: Merge sort
+
+How do you know?: For both cases scanerio it takes time i.e O(nlogn) but less time than (sort3) algorithm
+
+sort3 uses: Selection sort
+
+How do you know?: For both cases scanerio it takes time i.e O(n^2) but more time than (sort2) algorithm
